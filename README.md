@@ -6,7 +6,7 @@ I'm Muhammadyunus. Software developer working with Nodejs, React Native and Tele
 
 ## Get in touch
 - Personal Website: [muhammadyunus.uz](https://muhammadyunus.uz)
-- LinkedIn: https://www.linkedin.com/in/muhammadyunusuz
+- LinkedIn: https://www.linkedin.com/in/yunusjonyusupov
 -----
 [Credits](https://github.com/suzel)
 
