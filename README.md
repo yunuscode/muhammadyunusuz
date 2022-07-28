@@ -1,6 +1,6 @@
 # Muhammadyunus.uz
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/muhammadyunusuz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/yunusjonyusupov)
 
 I'm Muhammadyunus. Software developer working with Nodejs, React Native and Telegram bots.
 
